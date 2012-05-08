@@ -4,7 +4,7 @@ TODO: Fix pin (by either soldering something on or replacing uC)
 */
 
 /* File by Leo Rampen
-Some rights reservered (but I won't say what).
+Feel free to draw from this with your own projects. Let me know what you produce! The MSGEQ7 code is originally by J Skoba. The rest is written by me, but can be considered public domain.
 MSGEQ7 reading code from: http://nuewire.com/info-archive/msgeq7-by-j-skoba/
 */
 
